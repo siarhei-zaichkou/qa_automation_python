@@ -1,2 +1,2 @@
 # qa_automation_python
-python autotests
+python + selenium autotests
